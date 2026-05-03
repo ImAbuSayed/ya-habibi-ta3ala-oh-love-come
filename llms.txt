@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي تعالى الليل يناديك
+> نار الشوق تكوي والدفا فيك
+> خذني في حضنك خلني أذوب
+> قلبي دليلك وما للحب غروب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
