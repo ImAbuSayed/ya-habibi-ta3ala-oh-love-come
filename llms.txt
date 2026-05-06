@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-habibi-ta3ala-oh-love-come/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Ya Habibi Ta3ala – Oh Love, Come](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
