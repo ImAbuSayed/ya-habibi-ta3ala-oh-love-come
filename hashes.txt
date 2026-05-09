@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Habibi Ta3ala – Oh Love, Come
+
+This log tracks the cryptographic history and versioning for the song **Ya Habibi Ta3ala – Oh Love, Come** (ya-habibi-ta3ala-oh-love-come).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:36:52.872041 | `v1` | `03111337161bb735805ce4f826849977f9fe0551ec019c1d89f535b3dc2dc0bc` | `d94f4515ff21f72dc8ed9cf0e4b88dcab921d0f193793ab33a4489b5f85dceaa` | `2026-05-09_ya-habibi-ta3ala-oh-love-come-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
